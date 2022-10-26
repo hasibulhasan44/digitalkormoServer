@@ -67,6 +67,23 @@
             "5. privilege to have a cartificate."
             ]
         }
+    },
+    {
+        "id":"5",
+        "name":"Cpa Marketing",
+        "img":"https://i.postimg.cc/6pwKkbmD/cpa.jpg",
+        "rating":"5",
+        "price":"1900",
+        "details":{
+        "description":"CPA marketing is a small work though. But you can generate enough revenue from this field.",
+            "advantages":[
+            "1. Learn about CPA Marketing",
+            "2. Quality video lessons.",
+            "3. Quizes to examine yourself.",
+            "4. 24/7 support.",
+            "5. privilege to have a cartificate."
+            ]
+        }
     }
     
     
