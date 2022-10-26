@@ -50,6 +50,23 @@
             "5. privilege to have a cartificate."
             ]
         }
+    },
+    {
+        "id":"4",
+        "name":"Video Editing",
+        "img":"https://i.postimg.cc/ZR1tVwNs/v-editing.jpg",
+        "rating":"4.8",
+        "price":"4200",
+        "details":{
+        "description":"Now a days, there is a lot of content creators in youtube and in other platform. Besides companies need to run advirstment campain. That's why they need a video editor. A video editor works efficiently to make vidos most engaging. In this course, you will mastary the tools of video editing",
+            "advantages":[
+            "1. Learn to use Adobe Premier pro, Adobe After Effects, Filmora etc",
+            "2. Quality video lessons.",
+            "3. Quizes to examine yourself.",
+            "4. 24/7 support.",
+            "5. privilege to have a cartificate."
+            ]
+        }
     }
     
     
