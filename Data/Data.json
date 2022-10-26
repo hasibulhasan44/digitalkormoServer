@@ -16,6 +16,23 @@
             "5. privilege to have a cartificate."
             ]
         }
+    },
+    {
+        "id":"2",
+        "name":"Graphics Design",
+        "img":"https://i.postimg.cc/FHZvNgt1/gd.jpg",
+        "rating":"4.1",
+        "price":6200,
+        "details":{
+        "description":"Graphics is on demand now. Companies and individuals belive that 'The more interesting the design, the more customer.' For companies, design matters a lot. They want the best of bests. In this Course, you will learn from the basics to advanced concepts.",
+            "advantages":[
+            "1. Modern design sense building.",
+            "2. Quality video lessons.",
+            "3. Quizes to examine yourself.",
+            "4. 24/7 support.",
+            "5. privilege to have a cartificate."
+            ]
+        }
     }
     
     
