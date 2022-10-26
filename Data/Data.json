@@ -84,6 +84,23 @@
             "5. privilege to have a cartificate."
             ]
         }
+    },
+    {
+        "id":"6",
+        "name":"Spoken English",
+        "img":"https://i.postimg.cc/SK1pzSxh/spoken-eng.jpg",
+        "rating":"3.9",
+        "price":"1100",
+        "details":{
+        "description":"English is an international language. In Bangladesh,people can understand English, but hardly can say and speak in English with others. We have figured out the problems that we face when we try to speak in English. So it will be easier for you to speak in English after finishing this course.",
+            "advantages":[
+            "1. Learn the fundamentals of spoken English.",
+            "2. Quality video lessons.",
+            "3. Quizes to examine yourself.",
+            "4. 24/7 support.",
+            "5. privilege to have a cartificate."
+            ]
+        }
     }
     
     
