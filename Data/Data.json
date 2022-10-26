@@ -1,6 +1,22 @@
 
 [
-    
+    {
+        "id":"1",
+        "name":"Front-end Development",
+        "img":"https://i.postimg.cc/V6SPqxJb/wdd.jpg",
+        "rating":"4.5",
+        "price":7500,
+        "details":{
+        "description":"Websites are our like friends nowadays. We can't think internet without websites. Companies now want to grow online. To help then there is a lot of demand of Web developer. That's why we launched this course. After finishing this course with proper requirements, you will be called as a 'Junior Front-end Developer'. We welcome you warmly.",
+            "advantages":[
+            "1. Most Advanced Web design and development roadmap.",
+            "2. Quality video lessons.",
+            "3. Quizes to examine yourself.",
+            "4. 24/7 support.",
+            "5. privilege to have a cartificate."
+            ]
+        }
+    }
     
     
     
