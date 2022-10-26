@@ -33,6 +33,23 @@
             "5. privilege to have a cartificate."
             ]
         }
+    }, 
+    {
+        "id":"3",
+        "name":"Digital Marketing",
+        "img":"https://i.postimg.cc/TP36wLG0/dm.jpg",
+        "rating":"4.3",
+        "price":"9050",
+        "details":{
+        "description":"Companies now want to grow online. They are investing on online marketing. They want to generate customer from all over the world. This is only possible when they renders thier business online. After rendering, they need to grow as quickly as possible. And here they need the help of a Digital Marketer. A digital marketer promotes their business by campaining, offers and most importantly SEO (Search Engine Optimization). You will learn all of Digital Marketing from us.",
+            "advantages":[
+            "1. Perfect marketing policy with software mastery.",
+            "2. Quality video lessons.",
+            "3. Quizes to examine yourself.",
+            "4. 24/7 support.",
+            "5. privilege to have a cartificate."
+            ]
+        }
     }
     
     
